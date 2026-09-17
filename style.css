@@ -449,9 +449,17 @@ img {
     margin-top: 34px;
 }
 
+.email-text {
+    display: block;
+    margin-top: 24px;
+
+    color: var(--text-secondary);
+    font-size: 1rem;
+}
+
 .email-link {
     display: inline-block;
-    margin-top: 16px;
+    margin-top: 24px;
 
     color: var(--text-secondary);
     font-size: 0.85rem;
